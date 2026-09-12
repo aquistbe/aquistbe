@@ -8,8 +8,6 @@ I am not a software engineer. On the projects here I set the question, the study
 
 **[walksafe-ai-dashboard](https://github.com/aquistbe/walksafe-ai-dashboard)** — Public pedestrian-safety dashboard ([live](https://walksafe-ai-dashboard.daq26.workers.dev/)). Empirical Bayes crash-risk estimates for 16,984 Philadelphia intersections and 840 Bogotá zones, with documented methods. The imagery-validation study found no association between street-imagery scores and crash risk after exposure adjustment; that null result stays in the README because it is the kind of finding a health department needs before it buys a model.
 
-**[road-casualty-agent](https://github.com/aquistbe/road-casualty-agent)** - An ADK agent that brings road crash data files onto one documented schema, with a human reviewing every mapping before it is applied. It does schema work and provenance, never analysis: it reports column names, code changes, row counts, file hashes, and whether a check passed. It does not compute or characterize crash counts.
-
 **[transport-lit](https://github.com/aquistbe/transport-lit)** — MCP server that gives AI assistants keyword and semantic search over roughly 690,000 transportation research records from nine sources (U.S. DOT ROSA-P, PubMed transport subset, VTI, BASt, CEPAL and others), with full-text retrieval and citation export. Built because transport grey literature is invisible to PubMed. `uv tool install transport-lit`.
 
 **[AI-for-Urban-Health-2026](https://github.com/aquistbe/AI-for-Urban-Health-2026)** — Materials for my annual Summer Institute course on AI for public health research and practice (2024–2026, 90 participants, most of them Philadelphia Department of Public Health staff).
